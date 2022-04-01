@@ -7,7 +7,28 @@ export const Container = styled.main`
   justify-content: center;
   align-items: center;
   margin-top: 10rem;
-  `;
+`;
+
+export const Img = styled.div`
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+
+  .img_banner{
+    position: relative;
+    z-index: 2;
+  }
+
+  .img_light{
+    position: absolute;
+    z-index: 1;
+    left: 150px;
+    top: 340px;
+    width: 80%;
+    margin: 0 auto;
+  }
+`
 
 export const Title = styled.h1`
   font-family: inter;
