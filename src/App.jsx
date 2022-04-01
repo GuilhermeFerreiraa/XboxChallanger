@@ -1,5 +1,6 @@
 import React from "react"
 import * as C from './AppStyle'
+import FAQ from "./components/FAQ"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
 import SectionGames from "./components/SectionGames"
@@ -13,6 +14,7 @@ export default function App() {
       <SectionMain />
       <SectionInfo />
       <SectionGames />
+      <FAQ />
       <Footer />
     </C.Container>
   )
