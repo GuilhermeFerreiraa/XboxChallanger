@@ -21,7 +21,7 @@ export const InfoContent = styled.aside`
 
 export const TitleInfo = styled.div`
   display: grid;
-  font-size: 5rem;
+  font-size: 4.2rem;
   text-align: left;
   color: #9BF00B;
   text-transform: capitalize;
@@ -36,9 +36,9 @@ export const TitleInfo = styled.div`
 
 export const BoxInfo = styled.p`
   font-weight: 500;
-  font-family: inter, sans-serif;
-  font-size: 25px;
-  width: 100%;
+  font-family: inter,sans-serif;
+  font-size: 23px;
+  width: 85%;
   color: #c1c1c1;
   text-align: left;
 `

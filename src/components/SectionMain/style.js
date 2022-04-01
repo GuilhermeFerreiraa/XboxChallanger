@@ -6,14 +6,14 @@ export const Container = styled.main`
   margin: 0 auto;
   justify-content: center;
   align-items: center;
-  margin-top: 5rem;
+  margin-top: 10rem;
   `;
 
 export const Title = styled.h1`
   font-family: inter;
   margin: 0 auto;
   text-align: center;
-  font-size: 3.5rem;
+  font-size: 4rem;
   color: #ffffff;
   font-weight: bold;
   text-transform: capitalize;
