@@ -20,7 +20,7 @@ export const Container = styled.footer`
 
 export const Desc = styled.span`
   color: #777777;
-  font-family: inter;
+  font-family: inter,sans-serif;
   font-weight: 400;
   font-size: 16px;
   text-align: left;

@@ -31,7 +31,7 @@ export const Img = styled.div`
 `
 
 export const Title = styled.h1`
-  font-family: inter;
+  font-family: inter,sans-serif;
   margin: 0 auto;
   text-align: center;
   font-size: 4rem;
@@ -41,7 +41,7 @@ export const Title = styled.h1`
 `;
 
 export const SubTitle = styled.h3`
-  font-family: inter;
+  font-family: inter,sans-serif;
   margin: 0 auto;
   text-align: center;
   font-size: 1.5rem;
