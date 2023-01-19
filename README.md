@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img alt="dev.finances" src="https://media.discordapp.net/attachments/784133268592132107/930570827659882536/thumbnail_-_timer_to_study.png?width=1246&height=676" width="100%">
+  <img alt="xbox-desktop" src="https://cdn.discordapp.com/attachments/784133268592132107/1065437227770970262/xbox-desktop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
